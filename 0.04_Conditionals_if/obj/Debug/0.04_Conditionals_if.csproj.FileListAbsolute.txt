@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\bin\Debug\0.04_Conditionals_if.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\bin\Debug\0.04_Conditionals_if.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\bin\Debug\0.04_Conditionals_if.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\obj\Debug\0.04_Conditionals_if.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\obj\Debug\0.04_Conditionals_if.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_if\obj\Debug\0.04_Conditionals_if.csprojResolveAssemblyReference.cache

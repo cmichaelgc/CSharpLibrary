@@ -23,6 +23,7 @@ namespace _0._03_Strings
 
             //string interpolation
             Console.WriteLine("Name : {0}" + "\n" + "Occupation: {1}", fullName, occupation);
+            Console.WriteLine("{0:C}", 100.736);
 
             Console.ReadLine();
         }

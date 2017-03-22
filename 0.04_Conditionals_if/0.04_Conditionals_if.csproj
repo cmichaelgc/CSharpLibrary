@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CAF037F1-6B62-4402-AA24-093E5DF481F6}</ProjectGuid>
+    <ProjectGuid>{F2CAF46C-B301-45CA-806B-2F266106B3F5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._03_String_Challenges</RootNamespace>
-    <AssemblyName>0.03_String_Challenges</AssemblyName>
+    <RootNamespace>_0._04_Conditionals_if</RootNamespace>
+    <AssemblyName>0.04_Conditionals_if</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
