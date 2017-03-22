@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\bin\Debug\0.02_basictypes.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\bin\Debug\0.02_basictypes.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\bin\Debug\0.02_basictypes.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\obj\Debug\0.02_basictypes.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\obj\Debug\0.02_basictypes.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.02_basictypes\obj\Debug\0.02_basictypes.pdb
