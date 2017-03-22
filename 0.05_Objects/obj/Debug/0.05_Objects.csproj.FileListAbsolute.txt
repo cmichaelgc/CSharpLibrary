@@ -1,0 +1,5 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects\bin\Debug\0.05_Objects.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.05_Objects\obj\Debug\0.05_Objects.pdb
