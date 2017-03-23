@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\bin\Debug\0.06_methods_challenge.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\bin\Debug\0.06_methods_challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\bin\Debug\0.06_methods_challenge.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\obj\Debug\0.06_methods_challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\obj\Debug\0.06_methods_challenge.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.06_methods_challenge\obj\Debug\0.06_methods_challenge.csprojResolveAssemblyReference.cache
