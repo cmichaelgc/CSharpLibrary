@@ -35,10 +35,9 @@ namespace _0._10_ForEachLoops
                 Console.WriteLine(number);
             }
             Console.WriteLine("========================");
-
             //write a foreach loop to console.writeline each name
 
-            foreach (string name in names)
+            foreach (string name in names.Take(4))
             {
                 Console.WriteLine(name);
             }
