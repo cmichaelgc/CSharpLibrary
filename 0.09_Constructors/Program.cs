@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _0._09_Constructors
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Student devan = new Student();
+            devan.Name = "Devan";
+            devan.LastName = "Peetz";
+            devan.Age = 25;
+
+            Student shelby = new Student("Shelby");
+
+            Student charlesMichael = new Student("Charles", "Michael", 30, "Assassin");
+            Student jeremiahMiller = new Student("Jeremiah", "Miller", 30, "Padawan");
+             
+        }
+    }
+}

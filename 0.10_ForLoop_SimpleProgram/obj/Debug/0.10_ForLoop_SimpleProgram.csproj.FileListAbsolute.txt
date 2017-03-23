@@ -1,0 +1,5 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_ForLoop_SimpleProgram\bin\Debug\0.10_ForLoop_SimpleProgram.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_ForLoop_SimpleProgram\bin\Debug\0.10_ForLoop_SimpleProgram.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_ForLoop_SimpleProgram\bin\Debug\0.10_ForLoop_SimpleProgram.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_ForLoop_SimpleProgram\obj\Debug\0.10_ForLoop_SimpleProgram.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_ForLoop_SimpleProgram\obj\Debug\0.10_ForLoop_SimpleProgram.pdb
