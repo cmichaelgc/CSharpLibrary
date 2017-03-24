@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ForEachLoops", "0.10_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Collections_ArraysOfObject", "0.11_Collections_ArraysOfObject\0.11_Collections_ArraysOfObject.csproj", "{47C1BBA7-CF3C-480B-BFB8-E182C6887C7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Collections_Dictionaries", "0.12_Collections_Dictionaries\0.12_Collections_Dictionaries.csproj", "{F147CBBF-D5CB-40F7-AA92-A7BB4B2909F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Collections_Dictionaries_Challenge", "0.12_Collections_Dictionaries_Challenge\0.12_Collections_Dictionaries_Challenge.csproj", "{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{47C1BBA7-CF3C-480B-BFB8-E182C6887C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C1BBA7-CF3C-480B-BFB8-E182C6887C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C1BBA7-CF3C-480B-BFB8-E182C6887C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F147CBBF-D5CB-40F7-AA92-A7BB4B2909F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F147CBBF-D5CB-40F7-AA92-A7BB4B2909F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F147CBBF-D5CB-40F7-AA92-A7BB4B2909F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F147CBBF-D5CB-40F7-AA92-A7BB4B2909F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

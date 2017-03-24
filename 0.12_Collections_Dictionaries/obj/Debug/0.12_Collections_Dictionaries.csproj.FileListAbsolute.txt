@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\bin\Debug\0.12_Collections_Dictionaries.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\bin\Debug\0.12_Collections_Dictionaries.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\bin\Debug\0.12_Collections_Dictionaries.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\obj\Debug\0.12_Collections_Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\obj\Debug\0.12_Collections_Dictionaries.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries\obj\Debug\0.12_Collections_Dictionaries.pdb

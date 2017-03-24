@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\obj\Debug\0.12_Collections_Dictionaries_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\bin\Debug\0.12_Collections_Dictionaries_Challenge.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\bin\Debug\0.12_Collections_Dictionaries_Challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\bin\Debug\0.12_Collections_Dictionaries_Challenge.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\obj\Debug\0.12_Collections_Dictionaries_Challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Collections_Dictionaries_Challenge\obj\Debug\0.12_Collections_Dictionaries_Challenge.pdb
