@@ -10,14 +10,14 @@ namespace _0._12_Collections_Dictionaries_Challenge
     {
         static void Main(string[] args)
         {
-            
+            //flip key and value to run correctly
             Dictionary<string, string> movies = new Dictionary<string, string>();
-            movies.Add("Gladiator", "2000");
-            movies.Add("A Beautiful Mind", "2001");
-            movies.Add("Chicago", "2002");
-            movies.Add("The Lord of the Rings: The Return of the King", "2003");
-            movies.Add("Million Dollar Baby", "2004");
-            movies.Add("Crash", "2005");
+            movies.Add("2000", "Gladiator",);
+            movies.Add("2001", "A Beautiful Mind",);
+            movies.Add("2002", "Chicago",);
+            movies.Add("2003", "The Lord of the Rings: The Return of the King");
+            movies.Add("2004", "Million Dollar Baby");
+            movies.Add("2005", "Crash",);
 
 
             foreach(KeyValuePair<string, string> pair in movies)

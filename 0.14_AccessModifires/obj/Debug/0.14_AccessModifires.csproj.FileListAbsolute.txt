@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\bin\Debug\0.14_AccessModifires.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\bin\Debug\0.14_AccessModifires.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\bin\Debug\0.14_AccessModifires.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\obj\Debug\0.14_AccessModifires.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\obj\Debug\0.14_AccessModifires.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.14_AccessModifires\obj\Debug\0.14_AccessModifires.pdb

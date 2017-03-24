@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94B51C36-30CB-4EE2-AE74-7182CA7BF8EF}</ProjectGuid>
+    <ProjectGuid>{ADFD5EED-4158-4566-AE1D-2276732F573C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._12_Collections_Dictionaries_Challenge</RootNamespace>
-    <AssemblyName>0.12_Collections_Dictionaries_Challenge</AssemblyName>
+    <RootNamespace>_0._14_AccessModifires</RootNamespace>
+    <AssemblyName>0.14_AccessModifires</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
