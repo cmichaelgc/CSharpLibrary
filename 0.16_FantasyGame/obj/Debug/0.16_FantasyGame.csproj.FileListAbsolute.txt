@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\bin\Debug\0.16_FantasyGame.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\bin\Debug\0.16_FantasyGame.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\bin\Debug\0.16_FantasyGame.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\obj\Debug\0.16_FantasyGame.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\obj\Debug\0.16_FantasyGame.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.16_FantasyGame\obj\Debug\0.16_FantasyGame.csprojResolveAssemblyReference.cache
