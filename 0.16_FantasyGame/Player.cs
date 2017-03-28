@@ -15,20 +15,39 @@ namespace _0._16_FantasyGame
         TaxMan = 4,
         Human = 5
     }
+    public enum WeaponType
+    {
+        Machette = 0,
+        MooseAntler = 1,
+        MachineGun = 2,
+        ToughChunkOfWood = 3,
+        SlingShot = 4,
+
+    }
     class Player
     {
         public string PlayerName { get; set; }
         public string Clan { get; set; }
         public int CurrentPower { get; set; }
         public CharacterType Type { get; set; }
+        public WeaponType Weapon { get; set; }
 
 
-        public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
+        Dictionary<string, int> PlayerAttacks = new Dictionary<string, int>
+            {
+                {"Slice", 5 },
+                {"Slash", 5 },
+                {"Chop", 35 },
+                {"Stab", 45 }
+            };
+
+        public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange, WeaponType weapon = WeaponType.MooseAntler)
         {
             this.PlayerName = name;
             this.Clan = clanName;
             this.CurrentPower = 100;
             this.Type = type;
+            this.Weapon = weapon;
         }
         public CharacterType ChooseType(int t)
         {
@@ -57,6 +76,31 @@ namespace _0._16_FantasyGame
                     return this.Type = CharacterType.HorseMange;
             }
         }
+        public WeaponType ChooseWeapon(int w)
+        {
+            switch (w)
+            {
+                case 0:
+                    Console.WriteLine("You are using a Machette.");
+                    return this.Weapon = WeaponType.Machette;
+                case 1:
+                    Console.WriteLine("The Moose Antler?!? Seriously?");
+                    return this.Weapon = WeaponType.MooseAntler;
+                case 2:
+                    Console.WriteLine("Who do you think you are? Rambo?");
+                    return this.Weapon = WeaponType.MachineGun;
+                case 3:
+                    Console.WriteLine("Ahhh a good ol' chunk of wood....");
+                    return this.Weapon = WeaponType.ToughChunkOfWood;
+                case 4:
+                    Console.WriteLine("Don't forget to pick up your rocks before you leave!");
+                    return this.Weapon = WeaponType.SlingShot;
+                default:
+                    Console.WriteLine("And you are automatically assigned the Moose Antler! Congrats!");
+                    return this.Weapon = WeaponType.MooseAntler;
+
+            }
+        }
         public override string ToString()
         {
             return $"player Name: {this.PlayerName}\nGamer Name: {this.Clan}\nPlayer Type: {this.Type}";
@@ -69,6 +113,5 @@ namespace _0._16_FantasyGame
         {
             Console.WriteLine("FOR NARNIA!!!!!!!!!!!!!");
         }
-        
     }
 }
