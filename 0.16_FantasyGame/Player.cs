@@ -33,7 +33,7 @@ namespace _0._16_FantasyGame
         public WeaponType Weapon { get; set; }
 
 
-        Dictionary<string, int> PlayerAttacks = new Dictionary<string, int>
+        Dictionary<string, int> Attacks = new Dictionary<string, int>
             {
                 {"Slice", 5 },
                 {"Slash", 5 },

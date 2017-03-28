@@ -82,15 +82,6 @@ namespace _0._16_FantasyGame
             scott.ScottAttack(player);
 
 
-
-
-
-
-
-
-            //Enemy Quagga = new Enemy();
-            //Quagga.Insult();
-
             Console.ReadLine();
         }
     }
