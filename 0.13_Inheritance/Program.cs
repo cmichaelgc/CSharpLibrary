@@ -24,8 +24,8 @@ namespace _0._13_Inheritance
             foxyTheFox.Eat();
             foxyTheFox.Cry();
 
-            Animal theJSWiz = new Animal();
-            theJSWiz.NumberOfLegs = 2;
+            //Animal theJSWiz = new Animal();
+            //theJSWiz.NumberOfLegs = 2;
             
 
             Console.WriteLine("=================================================");

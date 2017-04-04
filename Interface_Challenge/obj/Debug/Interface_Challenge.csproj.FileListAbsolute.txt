@@ -1,0 +1,6 @@
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\bin\Debug\Interface_Challenge.exe.config
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\bin\Debug\Interface_Challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\bin\Debug\Interface_Challenge.pdb
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\obj\Debug\Interface_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\obj\Debug\Interface_Challenge.exe
+C:\Users\Robby\Documents\Visual Studio 2017\Projects\CSharpLibrary\Interface_Challenge\obj\Debug\Interface_Challenge.pdb
